@@ -1,0 +1,120 @@
+
+*
+{
+background-color:lightgray;
+
+}
+.main
+{
+
+    font-size: 20px;
+    margin: 25px;
+
+padding: 25px;
+
+}
+.sub
+{
+
+
+padding: 25px;
+
+border-style: solid;
+
+
+}
+h1
+
+
+{
+font-size: 50px;
+text-align: center;
+}
+.text-color
+{
+background-color: white;
+padding: 20px;
+margin: 50px;
+text-align: center;
+
+
+}
+.text-box
+{
+background-color: white;
+
+height: 30px;
+font-size: 15px;
+font-weight: bolder;
+text-align: center;
+}
+.button
+{
+
+background-color: red;
+color:white;
+font-weight: bolder;
+font-size: 20px;
+height: 35px;
+width: 25%;
+cursor: pointer;
+
+}
+.button:hover
+{
+
+    background-color: white;
+    color:red;
+    
+}
+.countdown
+{
+    margin: 50px;
+    
+    background-color: white;
+padding: 20px;
+
+text-align: center;
+
+}
+#start-date
+{
+
+background-color: white;
+height: 30px;
+font-size: 15px;
+font-weight: bolder;
+text-align: center;
+margin-right: 40px;
+}
+
+#end-date
+{
+
+background-color: white;
+height: 30px;
+font-size: 15px;
+font-weight: bolder;
+text-align: center;
+}
+
+#timer
+{
+
+font-size: 50px;
+background-color: white;
+
+}
+
+.hint
+{
+
+color: red;
+background-color: white;
+font-weight: bolder;
+font-size: 25px;
+text-transform: capitalize;
+
+
+
+}
